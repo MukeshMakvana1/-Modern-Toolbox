@@ -1,0 +1,4 @@
+customtkinter>=5.2.0
+Pillow>=10.0.0
+autopep8>=2.0.0
+pygments>=2.16.0
